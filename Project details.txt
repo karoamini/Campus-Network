@@ -7,7 +7,7 @@ Password Configuration:
 To enhance network security, I configured enable passwords and vty passwords for Cisco devices.
 
 VTP Configuration:
-I utilized VTP (VLAN Trunking Protocol) in transparent mode with the domain "ccna" for streamlined VLAN configuration and management.
+I utilized VTP (VLAN Trunking Protocol) in transparent mode with the domain "Polimi" for streamlined VLAN configuration and management.
 
 VLAN and Trunking Configuration:
 I added VLANs 10, 20, 30, and 100 to the VLAN database and configured the ports between switches as trunks, enabling efficient data transfer.
